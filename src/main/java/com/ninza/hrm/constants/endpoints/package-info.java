@@ -1,0 +1,1 @@
+package com.ninza.hrm.constants.endpoints;
